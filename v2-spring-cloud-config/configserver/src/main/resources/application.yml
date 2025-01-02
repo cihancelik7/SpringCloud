@@ -11,7 +11,7 @@ spring:
          # search-loactions: "classpath:/config"
         #  search-locations: "file:///Users//cihancelik//config"
         git:
-         uri: "https://github.com/cihancelik7/v1-springboot-microServices-S6.git"
+         uri: "https://github.com/cihancelik7/SpringCloud.git"
          default-label: main
          timeout: 5
          clone-on-start: true
